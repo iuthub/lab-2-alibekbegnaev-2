@@ -1,0 +1,15 @@
+body{
+	background-color: grey;
+	
+}
+h2, p, table{
+	color: white;
+	text-align: center;
+}
+ul{
+	color: white;
+}
+#flash, #aven, #bam{
+	width: 160px;
+	height: 200px;
+}
